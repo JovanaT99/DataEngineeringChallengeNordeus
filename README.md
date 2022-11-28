@@ -1,5 +1,5 @@
 # Nordeus Challenge
-This app parses data given by nordeus in nordeus jobfair challange
+This app parses data given by Nordeus in Nordeus jobfair challange
 and gives two endpoints `GET /game-stats` and `GET /user-stats`.
 This endpoints can be used to compute useful information for game or user.
 
@@ -12,7 +12,7 @@ Build and run:
 ./mwnw spring-boot:run
 ```
 
-After than run `GET /load` to load data before using other endpoints
+After that run `GET /load` to load data before using other endpoints
 
 ## Endpoints
 
