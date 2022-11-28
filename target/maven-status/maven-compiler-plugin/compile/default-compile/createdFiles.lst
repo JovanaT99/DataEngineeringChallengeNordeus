@@ -1,0 +1,6 @@
+com/nordeus/challenge/DataEngineeringChallengeApplication.class
+com/nordeus/challenge/model/Events.class
+com/nordeus/challenge/controller/Endpoint.class
+com/nordeus/challenge/model/EventData.class
+com/nordeus/challenge/service/EventsService.class
+com/nordeus/challenge/repository/EventsRepository.class

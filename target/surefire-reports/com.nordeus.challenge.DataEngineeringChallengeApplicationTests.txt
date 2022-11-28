@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.nordeus.challenge.DataEngineeringChallengeApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 6.234 s <<< FAILURE! - in com.nordeus.challenge.DataEngineeringChallengeApplicationTests
+contextLoads  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to execute CommandLineRunner
+Caused by: java.io.FileNotFoundException: Could not open ServletContext resource [/events.jsonl]
+
